@@ -14,4 +14,4 @@ function sum(num1, num2) {
 
 function aboutActive() {
   $('#about').toggleClass('active');
-} 
+}
